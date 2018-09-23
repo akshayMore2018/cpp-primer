@@ -1,0 +1,2 @@
+You are given two numbers N1 and N2. 
+You need to find out if the product of these numbers generate an even number or an odd number using bitwise operators.
